@@ -1,0 +1,104 @@
+@import url(http://fonts.googleapis.com/css?family=Gafata);
+
+body {
+    font-family: "Gafata", "Helvetica", "Serif";
+    margin: 0px;
+    font-size: 12px;
+    display: table;
+    width:100%;
+}
+
+/*Stili di contenitori*/
+
+header{
+    background: #242b35;
+    height: 50px;
+}
+
+#main{
+    background: #00c8d7;
+    height: 300px;
+}
+
+#mainSX{
+    height: 100%;
+    width: 60%;
+    float: left;
+}
+
+#mainDX{
+    height: 100%;
+    width: 40%;
+    float: right;
+}
+
+#section{
+    margin-left: 140px;
+    height: 230px
+}
+
+#label{
+    float: left;
+    width: 20%;
+    margin-top: 30px;
+    margin-left: 74px;
+}
+
+footer{
+    background: #242b35;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    color: white;
+}
+
+/*Stili di testo*/
+.titleHeader{
+    font-size: 4em;
+    color: white;
+    margin-left: 150px;
+}
+
+.titleMain{
+    text-shadow: 2px 2px #949494;
+    float: left;
+    margin-top: 30px;
+    font-size: 4em;
+    color: white;
+    margin-left: 150px;
+}
+
+.pMain{
+    float: left;
+    font-size: 1.4em;
+    color: white;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.btnMain{
+    width: 175px;
+    height: 50px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.imgSec{
+    width: 13%;
+    height: 30px;
+}
+
+.labelTitle{
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.labelP{
+    font-size: 1.4em;
+    text-align: center;
+}
+
+.footer1{
+    padding: 12px;
+    font-size: 1.3em;
+}
